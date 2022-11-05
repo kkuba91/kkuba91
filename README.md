@@ -1,10 +1,11 @@
-Hi, I’m [@kkuba91](https://github.com/kkuba91/kkuba91/tree/main).
+Hi, hello, I’m Jakub Kochaniak ``` 👋🏿👋🏾👋🏽👋🏼👋🏻 ```
 
-I’m interested in industrial automation and python IoT stuff. You can [mail me](mailto:kkuba91@o2.pl).
+I’m interested in industrial automation and python IoT stuff. You can __[📧 mail me](mailto:kkuba91@o2.pl)__.
 
-After workinghours I would like to play chess ♟, You can find me [here](https://lichess.org/@/kkuba91)
+After workinghours I would like to play chess, You can find me __[♟ here](https://lichess.org/@/kkuba91)__.
 
-I'm glad You come here, please see [my repos](https://github.com/kkuba91).
+I'm glad You come here, please see __[🛠 my repos](https://github.com/kkuba91)__.
+
 <!---
-
+Some introduce stuff.
 --->
